@@ -1,0 +1,28 @@
+"""
+This is a comment
+written in
+more than just one line.
+Welcome to Python 3.10.
+"""
+#hiya
+#heypython3
+#This Python software is written using functions, strings, variables, and comments.
+#This Python software is open-source and tells you guys a little bit about me. This Python software is hosted on GitLab.
+
+print("Hello, World!")
+print ("Welcome to Google Colab.")
+print ("Python 3.10.0")
+msdosinfo = "Here is some info about MS-DOS 1.0."
+print (msdosinfo)
+print ("MS-DOS 1.0 is actually a renamed version of 86-DOS, which was bought by Microsoft.")
+
+indentinfoinpython3 = "In Python 3, variables automatically change their types and their types do not have to be written."
+print (indentinfoinpython3)
+myname = "My name is Devaansh"
+myagerough = 10
+myagefloat = 10.8
+print(myname)
+print("My rough age is")
+print(myagerough)
+print("My float age is")
+print(myagefloat)
